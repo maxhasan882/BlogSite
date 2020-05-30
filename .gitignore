@@ -1,5 +1,4 @@
-static/
-media/
+
 local_settings.py
 **/migrations/*
 logs/
